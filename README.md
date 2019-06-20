@@ -1,9 +1,14 @@
 # Android-App-UrWodLog
 
-
-
-
-
+Developed an Android Platform app that allows a suer to keep track of there workouts.
+  1. Allos Users to create, retrieve, update, and delete workouts.
+  2. Implemented using Firebase real time data base as the form of storage (shown in the last image). 
+  
+Design:
+  1. Model View Controller Design.
+  2. Incoporates a singleton design pattern.
+  
+Note: If this app is to be downloaded, it is required to be opened in Android Studio!!!!!
 
 
 ![image](https://user-images.githubusercontent.com/51094689/59883923-d70d3580-9373-11e9-99b6-f64d247f05ab.png)
