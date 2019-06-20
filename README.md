@@ -2,7 +2,7 @@
 
 Developed an Android Platform app that allows a suer to keep track of there workouts.
   1. Allos Users to create, retrieve, update, and delete workouts.
-  2. Implemented using Firebase real time data base as the form of storage (shown in the last image). 
+  2. Implemented using Firebase real time database as the form of storage (shown in the last image).
   
 Design:
   1. Model View Controller Design.
